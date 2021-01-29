@@ -1,1 +1,3 @@
 This is sample text on master branch. 
+
+I have checked out a new branch Feature A. 

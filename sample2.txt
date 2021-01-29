@@ -1,1 +1,3 @@
-I am sample 2
+I am sample 2. 
+
+New feature 1 in sample 2
